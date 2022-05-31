@@ -1,0 +1,12 @@
+D:\Projects\ScholarHat\MyLecture4\EFCore2\EFCore2\DbFirst\bin\Debug\net6.0\DbFirst.deps.json
+D:\Projects\ScholarHat\MyLecture4\EFCore2\EFCore2\DbFirst\bin\Debug\net6.0\DbFirst.dll
+D:\Projects\ScholarHat\MyLecture4\EFCore2\EFCore2\DbFirst\bin\Debug\net6.0\DbFirst.pdb
+D:\Projects\ScholarHat\MyLecture4\EFCore2\EFCore2\DbFirst\obj\Debug\net6.0\DbFirst.csproj.AssemblyReference.cache
+D:\Projects\ScholarHat\MyLecture4\EFCore2\EFCore2\DbFirst\obj\Debug\net6.0\DbFirst.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ScholarHat\MyLecture4\EFCore2\EFCore2\DbFirst\obj\Debug\net6.0\DbFirst.AssemblyInfoInputs.cache
+D:\Projects\ScholarHat\MyLecture4\EFCore2\EFCore2\DbFirst\obj\Debug\net6.0\DbFirst.AssemblyInfo.cs
+D:\Projects\ScholarHat\MyLecture4\EFCore2\EFCore2\DbFirst\obj\Debug\net6.0\DbFirst.csproj.CoreCompileInputs.cache
+D:\Projects\ScholarHat\MyLecture4\EFCore2\EFCore2\DbFirst\obj\Debug\net6.0\DbFirst.dll
+D:\Projects\ScholarHat\MyLecture4\EFCore2\EFCore2\DbFirst\obj\Debug\net6.0\refint\DbFirst.dll
+D:\Projects\ScholarHat\MyLecture4\EFCore2\EFCore2\DbFirst\obj\Debug\net6.0\DbFirst.pdb
+D:\Projects\ScholarHat\MyLecture4\EFCore2\EFCore2\DbFirst\obj\Debug\net6.0\ref\DbFirst.dll
